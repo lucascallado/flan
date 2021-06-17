@@ -42,12 +42,12 @@ Zahin Ali
 
 [Click here to see the UI](https://invis.io/5XDUOZAAE#/257274852_Build_Album)
 
-![Home](/UI/Home.png)
-![Profile](/UI/Profile.png)
-![Dashboard](/UI/Dashboard.png)
-![Menu](/UI/Menu.png)
-![View](/UI/View.png)
-![Build](/UI/Build.png)
-![Modify](/UI/Modify.png)
-![Checkout](/UI/Checkout.png)
-![Build-Album](/UI/Build-Album.png)
+<img src="/UI/Home.png" alt="Home" width="400" />
+<img src="/UI/Profile.png" alt="Profile" width="400" />
+<img src="/UI/Dashboard.png" alt="Dashboard" width="400" />
+<img src="/UI/Menu.png" alt="Menu" width="400" />
+<img src="/UI/View.png" alt="View" width="400" />
+<img src="/UI/Build.png" alt="Build" width="400" />
+<img src="/UI/Modify.png" alt="Modify" width="400" />
+<img src="/UI/Checkout.png" alt="Checkout" width="400" />
+<img src="/UI/Build-Album.png" alt="Build-Album" width="400" />
